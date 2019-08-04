@@ -6,9 +6,6 @@ Makefile
 mythread.c
 mythread.h
 
-# Extra credit files
-mythreadextra.h
-
 # Invocation
 make
 
