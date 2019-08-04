@@ -22,5 +22,3 @@ ar rcs mythread.a mythread.o
 
 # Author
 Ramya Vijayakumar
-Unity Id: rvijaya4
-Student Id: 200263962
